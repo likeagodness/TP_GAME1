@@ -1,0 +1,19 @@
+﻿  bullet.cpp
+C:\Users\sasha\Desktop\GameLAST\bullet.cpp(2,10): fatal error C1083: Не удается открыть файл включение: bullet.h: No such file or directory,
+  enemy.cpp
+C:\Users\sasha\Desktop\GameLAST\enemy.cpp(2,10): fatal error C1083: Не удается открыть файл включение: enemy.h: No such file or directory,
+  game.cpp
+C:\Users\sasha\Desktop\GameLAST\game.cpp(3,10): fatal error C1083: Не удается открыть файл включение: game.h: No such file or directory,
+  message.cpp
+C:\Users\sasha\Desktop\GameLAST\message.cpp(2,10): fatal error C1083: Не удается открыть файл включение: message.h: No such file or directory,
+  map.cpp
+C:\Users\sasha\Desktop\GameLAST\map.cpp(2,10): fatal error C1083: Не удается открыть файл включение: map.h: No such file or directory,
+  player.cpp
+C:\Users\sasha\Desktop\GameLAST\player.cpp(3,10): fatal error C1083: Не удается открыть файл включение: player.h: No such file or directory,
+  shooter.cpp
+C:\Users\sasha\Desktop\GameLAST\shooter.cpp(2,10): fatal error C1083: Не удается открыть файл включение: shooter.h: No such file or directory,
+  main.cpp
+C:\Users\sasha\Desktop\GameLAST\main.cpp(1,10): fatal error C1083: Не удается открыть файл включение: game.h: No such file or directory,
+  flag.cpp
+C:\Users\sasha\Desktop\GameLAST\flag.cpp(2,10): fatal error C1083: Не удается открыть файл включение: flag.h: No such file or directory,
+  Создание кода...
